@@ -7,8 +7,8 @@ I'm the founder an EduTech startup - [Techsity](https://techsity.io) and a publi
 ## 🔭 Recent Articles
 
 - [How to deploy a Dockerized Node JS (TypeScript) Application to Amazon EC2 Service ](https://dev.to/mayorscript/how-to-deploy-a-dockerized-node-js-typescript-application-to-amazon-ec2-service-2023-jfd)
-- [Deploy a Next Js Application on Amazon Amplify Service](link to project](https://dev.to/mayorscript/deploy-a-next-js-application-on-amazon-amplify-service-1h48)
-- [How to connect your domain from Namecheap to Amazon Route 53](link to project](https://dev.to/mayorscript/how-to-connect-your-domain-from-namecheap-to-amazon-route-53-4g3g)
+- [Deploy a Next Js Application on Amazon Amplify Service](https://dev.to/mayorscript/deploy-a-next-js-application-on-amazon-amplify-service-1h48)
+- [How to connect your domain from Namecheap to Amazon Route 53](https://dev.to/mayorscript/how-to-connect-your-domain-from-namecheap-to-amazon-route-53-4g3g)
 
 ## 💬 Let's Connect
 
@@ -17,7 +17,9 @@ I'm the founder an EduTech startup - [Techsity](https://techsity.io) and a publi
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mayorscript&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mayorscript&show_icons=true&theme=radical)
+![My Name's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayorscript&layout=compact)
+
 
 <!-- ## 🚀 My Skills
 
