@@ -12,8 +12,8 @@ I'm the founder an EduTech startup - [Techsity](https://techsity.io) and a publi
 
 ## 💬 Let's Connect
 
-- [LinkedIn](link to LinkedIn profile](https://www.linkedin.com/in/mayorscript/)
-- [Twitter](link to Twitter profile](https://twitter.com/MayorScript)
+- [LinkedIn](https://www.linkedin.com/in/mayorscript/)
+- [Twitter](https://twitter.com/MayorScript)
 
 ## 📈 GitHub Stats
 
