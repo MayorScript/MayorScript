@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=mayorscript)
 
-I'm Joseph Ayobami, a Software Engineer, Technical Writer and a Tech Entreprenuer. Welcome to my GitHub profile! 
+I'm Joseph Ayobami, a Senior Software Engineer, Technical Writer, and a Tech Entrepreneur. Welcome to my GitHub profile! 
 
-I'm the founder an EduTech startup - [Techsity](https://techsity.io) and a publisher of technical contents on [Dev](https://dev.to/mayorscript).
+I'm the founder of an EduTech startup - [Techsity](https://techsity.io) and a publisher of technical content on [Dev](https://dev.to/mayorscript).
 
 ## 🔭 Recent Articles
 
