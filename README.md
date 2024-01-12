@@ -20,7 +20,7 @@ I'm the founder an EduTech startup - [Techsity](https://techsity.io) and a publi
 ## 📈 GitHub Stats
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?mayorscript=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?mayorscript=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![My Name's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayorscript&layout=compact)
 
 
