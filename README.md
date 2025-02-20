@@ -2,8 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayorscript)
 
-I'm **Joseph Ayobami** — a Senior Software Engineer, Technical Writer, and Tech Entrepreneur with over **10 years of experience** in building innovative solutions.  
-Founder of [Techsity](https://techsity.io) and a passionate contributor on [Dev](https://dev.to/mayorscript).
+Hi there, I'm **Joseph Ayobami** – a passionate Senior Software Engineer, Technical Writer, and Tech Entrepreneur with over a decade of experience in building innovative solutions. As a technical startup founder of [Techsity](https://techsity.io), I thrive on building cutting-edge applications, mentoring future tech leaders, and pushing the boundaries of digital transformation.
+
 
 ---
 
@@ -60,7 +60,7 @@ Founder of [Techsity](https://techsity.io) and a passionate contributor on [Dev]
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:oluwasegunstar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
