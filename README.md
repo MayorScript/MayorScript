@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayorscript)
 
-I'm **Joseph Ayobami** – a passionate Software Engineer, Technical Leader, and Tech Entrepreneur with over a decade of experience in building innovative solutions. As a technical startup founder of [Techsity](https://techsity.io), I thrive on building cutting-edge applications, mentoring future tech leaders, and pushing the boundaries of digital transformation.
+I'm **Joseph Ayobami** – a passionate Software Engineer, Technical Leader, and Tech Entrepreneur with over a decade of experience in building innovative solutions, I thrive on building cutting-edge applications, mentoring future tech leaders, and pushing the boundaries of digital transformation.
 
 
 ---
